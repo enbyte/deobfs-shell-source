@@ -1,0 +1,1 @@
+The shellshockers developers "accidentally" uploaded the entirety of the unobfuscated Shell Shockers source code to production. So here it is as an archive, super useful for decompilation / whatever you want. released cc-0
